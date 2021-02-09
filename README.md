@@ -24,9 +24,11 @@ This repo shows three examples of Ethereum Smart Contracts which were created in
 
 ![compile](images/Screen_Shot3.png)
 
-![deploy](images/Screen_Shot2.png)
+![deploy](images/Screen_Shot1.png)
 
-![fund](images/Screen_Shot1.png)
+* We verify in Ganache that contract has been created.
+
+![fund](images/Screen_Shot2.png)
 
 #
 ## Tiered Profit Splitter
