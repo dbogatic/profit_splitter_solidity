@@ -20,15 +20,25 @@ This repo shows three examples of Ethereum Smart Contracts which were created in
 
 * It will allow the Human Resources department to pay employees quickly and efficiently.
 
-* Once we created a contract in Solidity, we compile it and then deploy and fund the contract.
+* Once we created a contract in Solidity, we compile it and then deploy.
 
 ![compile](images/Screen_Shot3.png)
 
-![deploy](images/Screen_Shot1.png)
+![deploy](images/Screen_Shot2.png)
 
 * We verify in Ganache that contract has been created.
 
-![fund](images/Screen_Shot2.png)
+![contract](images/Screen_Shot1.png)
+
+* Next step is to deposit intro contract 10 ETH which will be equally split between three selected Associates' accounts.
+
+![deposit](images/Screen_Shot4.png)
+
+* Finally, we verify that 10 ETH has been taken out of the sender's account (0x5DB....) and deposited into three split accounts (0x88c...,0xCfa...,0xF90...).
+
+![previous_balance](images/Screen_Shot5.png)
+
+![balance_after](images/Screen_Shot6.png)
 
 #
 ## Tiered Profit Splitter
