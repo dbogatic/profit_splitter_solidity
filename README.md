@@ -1,7 +1,7 @@
 # Profit Splitter 
 
 ## Ethereum Smart Contracts with Solidity, Remix IDE, MetaMask and Ganache
-#
+
 
 This repo shows three examples of Ethereum Smart Contracts which were created in [Solidity](https://docs.soliditylang.org/en/v0.7.4/) programming language using [Remix IDE](https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.7.4+commit.3f05b770.js/) and deployed via [MetaMask](https://metamask.io/) to [Ganache](https://www.trufflesuite.com/ganache). 
 #
@@ -14,7 +14,7 @@ This repo shows three examples of Ethereum Smart Contracts which were created in
 
 #
 ## Associate Profit Splitter
-#
+
 
 * This smart contract will accept Ether into the contract and divide the Ether evenly among the associate level employees. 
 
@@ -42,7 +42,7 @@ This repo shows three examples of Ethereum Smart Contracts which were created in
 
 #
 ## Tiered Profit Splitter
-#
+
 * This smart contract will distribute different percentages of incoming Ether to employees at different tiers/levels. 
 
 * For example, the CEO gets paid 60%, CTO 25%, and Bob gets 15%.
@@ -65,10 +65,20 @@ This repo shows three examples of Ethereum Smart Contracts which were created in
 
 #
 ## Deferred Equity Plan
-#
+
 * This smart contract will model traditional company stock plans. 
 
-* This contract will automatically manage 1000 shares with an annual distribution of 250 over 4 years for a single employee.
+* It will automatically manage 1000 shares with an annual distribution of 250 over 4 years for a single employee.
+
+* As in the previous two examples, we create a contract using Remix IDE, deploy the contract, verify its creation in Ganache and finally test the share distribution function. 
+
+![deferred_compile](images/Screen_Shot12.png)
+
+![deferred_deploy](images/Screen_Shot13.png)
+
+![deferred](images/ScreenShot14.png)
+
+![contract_functions](images/ScreenShot15.png)
 
 #
 © 2021 Author: Dragan Bogatic
