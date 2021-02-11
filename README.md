@@ -2,6 +2,8 @@
 
 ## Ethereum Smart Contracts with Solidity, Remix IDE, MetaMask and Ganache
 
+![eth_stock_photo](images/eth_photo.jpg)
+Source: [Pixabay](https://pixabay.com/photos/cryptocurrency-money-ethereum-3424785/)
 
 This repo shows three examples of Ethereum Smart Contracts which were created in [Solidity](https://docs.soliditylang.org/en/v0.7.4/) programming language using [Remix IDE](https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.7.4+commit.3f05b770.js/) and deployed via [MetaMask](https://metamask.io/) to [Ganache](https://www.trufflesuite.com/ganache). 
 #
